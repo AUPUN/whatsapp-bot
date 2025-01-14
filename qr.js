@@ -33,7 +33,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
         );
         
         if (!fs.existsSync('config.env')) {
-            fs.writeFileSync('config.env', `ASENA_SESSION="${st}"`);
+            fs.writeFileSync('config.env', `ASENA_SESSION="${levanter_14388a32bd0f7049528c5304a87df0cbaf}"`);
         }
 
         console.log(
